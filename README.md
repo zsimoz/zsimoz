@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @zsimoz
-- 👀 I’m busy in wasting my time
-- 🌱 I’m currently learning c++/java/c#/phython
+# Ciao, sono Simone
 
-<!---
-zsimoz/zsimoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+BSc in Computer Science  @ UNIMORE  
+Incoming MSc in Computer Engineering
+
+Interested in:
+- GPU Computing
+- AI Systems
+- High Performance Computing
+- Distributed Systems
+
+Tech:
+Python, C++, CUDA, Linux, PyTorch, Docker
